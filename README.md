@@ -1,6 +1,6 @@
-# Go muzero
+# Go MuZero
 
-An Go implementation of muzero based on the [python reference implementation](reference/python_reference_implementation.py) 
+An Go implementation of MuZero based on the [python reference implementation](reference/python_reference_implementation.py) 
 from the [muzero paper](https://arxiv.org/pdf/1911.08265.pdf).
 
 see [muzero.go](muzero.go).
